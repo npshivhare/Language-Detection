@@ -8,3 +8,4 @@ scipy==1.11.4
 librosa==0.10.1
 matplotlib==3.8.4
 xgboost==2.0.3
+setuptools
