@@ -6,8 +6,6 @@ A Machine Learning-based system to automatically identify Indian languages from 
 
 📂 **GitHub Repo:** https://github.com/npshivhare/Language-Detection  
 
-🎥 **Demo Video:** 
-
 ---
 
 ## 📌 Overview
