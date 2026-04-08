@@ -9,7 +9,6 @@ import numpy as np
 import librosa
 import librosa.display
 import joblib
-import pkg_resources
 import os
 import tempfile
 import matplotlib.pyplot as plt
