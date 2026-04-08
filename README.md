@@ -95,8 +95,8 @@ Each audio file is converted into a **59-dimensional feature vector**:
 
 ## 📊 Results & Insights
 
-- XGBoost significantly outperforms other models on high-dimensional audio features :contentReference[oaicite:0]{index=0}  
-- MFCC + Chroma + Spectral Contrast provide strong discriminative power :contentReference[oaicite:1]{index=1}  
+- XGBoost significantly outperforms other models on high-dimensional audio features
+- MFCC + Chroma + Spectral Contrast provide strong discriminative power
 - Some languages (e.g., Gujarati & Punjabi) show overlapping patterns  
 - Ensemble methods perform better than standalone classifiers  
 
